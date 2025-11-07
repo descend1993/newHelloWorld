@@ -14,6 +14,21 @@ import com.demo.java19.*;
 import com.demo.java20.*;
 import com.demo.java21.*;
 
+/**
+ * Java 9-21 新特性演示程序
+ * 
+ * 本项目为Java 8用户提供了一个全面的指南，展示了从Java 9到Java 21的所有主要新特性。
+ * 每个特性都包含详细的代码示例和注释，帮助您理解这些新特性如何改进和简化Java开发。
+ * 
+ * 如果您目前使用Java 8，建议按照版本顺序逐步学习：
+ * 1. Java 9-11: 基础改进（集合工厂、var关键字、字符串方法等）
+ * 2. Java 12-16: 语法增强（switch表达式、text blocks、records等）
+ * 3. Java 17: 第一个推荐升级的LTS版本
+ * 4. Java 21: 最新的LTS版本，包含虚拟线程等重大特性
+ * 
+ * @author Java Features Demo Team
+ * @since 1.0.0
+ */
 public class JavaFeaturesDemo {
     public static void main(String[] args) {
         System.out.println("=".repeat(80));
